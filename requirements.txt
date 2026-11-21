@@ -4,3 +4,4 @@ pandas==3.1.1
 python-dotenv==1.2.4
 dbt-core==1.11.17
 dbt-postgres==1.11.0
+kaggle==2.2.5
