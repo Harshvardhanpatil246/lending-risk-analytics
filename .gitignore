@@ -20,3 +20,5 @@ dbt/logs/
 logs/
 # dbt's personal ID for this laptop
 dbt/.user.yml
+# Airflow's generated config (has random secret keys)
+orchestration/config/airflow.cfg
