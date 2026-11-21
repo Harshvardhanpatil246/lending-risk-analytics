@@ -3,12 +3,17 @@ CLAUDE.md
 .claude/
 learning/
 LEARNING_LOG.md
+# Python box: big, rebuilt from requirements.txt
 .venv/
+# Passwords and tokens
 .env
+# All data, except the small sample
 data/*
 !data/sample/
+# Temp files from Python and Jupyter
 __pycache__/
 .ipynb_checkpoints/
+# Files dbt and tools rebuild by themselves
 dbt/target/
 dbt/dbt_packages/
 dbt/logs/
