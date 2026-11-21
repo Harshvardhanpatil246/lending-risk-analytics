@@ -1,0 +1,15 @@
+# My private notes and AI mentor settings (kept on my laptop only)
+CLAUDE.md
+.claude/
+learning/
+LEARNING_LOG.md
+.venv/
+.env
+data/*
+!data/sample/
+__pycache__/
+.ipynb_checkpoints/
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+logs/
