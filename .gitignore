@@ -18,3 +18,5 @@ dbt/target/
 dbt/dbt_packages/
 dbt/logs/
 logs/
+# dbt's personal ID for this laptop
+dbt/.user.yml
